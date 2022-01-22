@@ -22,6 +22,6 @@ Responsibility -
                     
 3. Calculate gross salary
 4. Calculate net salary
-5. Create a Main class
-	i. Add employee
-	ii. Display employee detail with basic, gross and net
+5. Create a Main class, then
+	(a) Add employee
+	(b) Display employee detail with basic, gross and net
