@@ -61,7 +61,7 @@ public class Main {
 		
 		boolean found = false;
 		for(Employee e: employees) {
-			if(e.getEmpId() == id && e.getEmpName().equals(name)) {
+			if(e.getEmpId() == id && e.getEmpName().equals(name) && !found) {
 				found = true;
 				e.setEmpAddress(newAddress);
 				e.setEmpEmail(newEmail);
