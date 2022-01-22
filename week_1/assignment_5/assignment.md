@@ -13,7 +13,7 @@ Responsibility -
 
 2. Calculate Tax (calculate monthly tax and deduct from the salary)
 	
-	> 20,000 = 13 % PA;
+	Gross Salary > 20,000 = 13 % PA;
 	15000 - 20000 = 12.5 % PA;
 	12500 - 14999 = 11.25% PA;
 	7500 - 12499 = 9.6 % PA;
