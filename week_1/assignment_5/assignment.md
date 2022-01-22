@@ -4,12 +4,12 @@ Responsibility -
 
 1. Calculate allowance based on designation
   
-  	  Design    Allowance
-    	    PL        1600
-    	    TM        1300
-    	    TL        1270
-   	    Admin     1500
-   	    Others    1100
+  	  Design  ->  Allowance:
+    	    PL    ->    1600;
+    	    TM    ->    1300;
+    	    TL    ->    1270;
+   	    Admin ->   1500;
+   	    Others ->   1100;
 
 2. Calculate Tax (calculate monthly tax and deduct from the salary)
 	
