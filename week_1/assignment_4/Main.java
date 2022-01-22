@@ -27,6 +27,7 @@ public class Main {
 		modifyEmployee(1005, "Employee Five", "New Address", "new@email.com", "New Designation");
 		viewEmployee();
 		// todo: add menu and take user input
+		
 	}
 
 	static void addEmployee(String name, String address, String email, String designation) {

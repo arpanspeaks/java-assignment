@@ -8,6 +8,8 @@ public class Employee {
 	private String empAddress;
 	private String empEmail;
 	private String empDesignation;
+	
+	public Employee() { this.empId = ++Employee.idCounter; }
 
 	public Employee(String empName, String empAddress, String empEmail, String empDesignation) {
 		this.empId = ++Employee.idCounter;
