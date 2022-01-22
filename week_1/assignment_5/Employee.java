@@ -7,43 +7,14 @@ public class Employee {
 	private double salary;
 
 	public Employee(String name, Department dept, String designation, double salary) {
-		super();
 		this.name = name;
 		this.dept = dept;
 		this.designation = designation;
 		this.salary = salary;
-	}
-
-	public String getName() {
-		return name;
-	}
-
-	public void setName(String name) {
-		this.name = name;
-	}
-
-	public Department getDept() {
-		return dept;
-	}
-
-	public void setDept(Department dept) {
-		this.dept = dept;
-	}
-
-	public String getDesignation() {
-		return designation;
-	}
-
-	public void setDesignation(String designation) {
-		this.designation = designation;
 	}
 
 	public double getSalary() {
 		return salary;
-	}
-
-	public void setSalary(double salary) {
-		this.salary = salary;
 	}
 
 	public double computeGrossSalary() {

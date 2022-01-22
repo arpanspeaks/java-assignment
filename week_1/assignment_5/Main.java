@@ -8,7 +8,7 @@ public class Main {
 	}
 	
 	static Employee addEmployee() {
-		return new Employee("Ayan Sardar", Department.TECH, "TM", 45000);
+		return new Employee("Employee Name", Department.TECH, Designation.TM.toString(), 45000);
 	}
 	
 	static void displayEmployeeDetails(Employee emp) {
